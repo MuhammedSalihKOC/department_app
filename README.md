@@ -7,9 +7,7 @@ This Flutter app implements the assignment requirements:
 - Infrastructure page with classroom photos; double-tap an image to open it on a new page and pinch-to-zoom.
 
 ## Group Information
-- Full Name 1 — Student ID 1
-- Full Name 2 — Student ID 2
-- Full Name 3 — Student ID 3
+- Muhammed Salih KOÇ - 43594458406
 
 Replace the names/IDs above before submission.
 
